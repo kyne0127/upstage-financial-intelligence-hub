@@ -9,6 +9,7 @@ compatibility: 인터넷 접근 필수. DART_API_KEY 환경변수 필요.
 metadata:
   layer: "L4-utility"
   version: "1.0"
+allowed-tools: [Bash]
 ---
 
 # DART API Connector

@@ -8,6 +8,7 @@ description: |
 metadata:
   layer: "L3-component"
   version: "1.0"
+allowed-tools: [Bash]
 ---
 
 # Context-Aware Chunker

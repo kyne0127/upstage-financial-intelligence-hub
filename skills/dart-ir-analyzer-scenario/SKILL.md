@@ -11,6 +11,7 @@ compatibility: Python 3.10+, DART_API_KEY, UPSTAGE_API_KEY, 인터넷 접근 필
 metadata:
   layer: "L2-scenario"
   version: "1.0"
+allowed-tools: [Bash]
 ---
 
 # DART IR Analyzer Scenario

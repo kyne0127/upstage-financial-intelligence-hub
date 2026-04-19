@@ -9,6 +9,7 @@ compatibility: Python 3.10+, DART_API_KEY 필요, 인터넷 접근 필수 (초�
 metadata:
   layer: "L3-component"
   version: "1.0"
+allowed-tools: [Bash]
 ---
 
 # CorpCode Resolver

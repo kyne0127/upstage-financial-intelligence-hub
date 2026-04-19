@@ -9,6 +9,7 @@ compatibility: UPSTAGE_API_KEY 필요, 인터넷 접근 필수
 metadata:
   layer: "L3-component"
   version: "1.0"
+allowed-tools: [Bash]
 ---
 
 # Solar Insight Extractor

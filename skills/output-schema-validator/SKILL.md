@@ -8,6 +8,7 @@ description: |
 metadata:
   layer: "L4-utility"
   version: "1.0"
+allowed-tools: [Bash]
 ---
 
 # Output Schema Validator

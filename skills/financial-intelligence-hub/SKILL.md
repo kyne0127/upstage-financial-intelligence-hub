@@ -11,6 +11,7 @@ compatibility: Python 3.10+, DART_API_KEY, UPSTAGE_API_KEY, 인터넷 접근 필
 metadata:
   layer: "L1-root"
   version: "1.0"
+allowed-tools: [Bash]
 ---
 
 # Financial Intelligence Hub

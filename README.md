@@ -346,3 +346,9 @@ fih regression-batch \
 - 회귀 테스트 픽스처 (`fixtures/regression/`)
 
 하나의 Python 패키지가 7개 AgentSkill과 CLI를 함께 배포합니다.
+
+---
+
+## Acknowledgement
+
+본 프로젝트는 Upstage AI Ambassador 2기 활동의 일환으로, 업스테이지(Upstage)의 API 크레딧 지원을 받아 구현 및 작성되었습니다.

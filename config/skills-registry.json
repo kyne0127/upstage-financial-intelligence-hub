@@ -1,0 +1,17 @@
+{
+  "version": "1.0",
+  "skills": [
+    { "name": "financial-intelligence-hub",  "layer": "L1-root",      "entry": true },
+    { "name": "dart-ir-analyzer-scenario",   "layer": "L2-scenario"              },
+    { "name": "corpcode-resolver",           "layer": "L3-component"             },
+    { "name": "context-aware-chunker",       "layer": "L3-component"             },
+    { "name": "solar-insight-extractor",     "layer": "L3-component"             },
+    { "name": "dart-api-connector",          "layer": "L4-utility"               },
+    { "name": "output-schema-validator",     "layer": "L4-utility"               }
+  ],
+  "install_targets": {
+    "claude": "~/.claude/skills",
+    "codex":  "~/.codex/skills",
+    "cursor": "~/.cursor/skills"
+  }
+}

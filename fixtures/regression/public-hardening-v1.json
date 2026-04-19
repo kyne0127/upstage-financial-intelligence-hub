@@ -1,0 +1,11 @@
+{
+  "name": "public-hardening-v1",
+  "assert_min_pass_rate": 0.8,
+  "companies": [
+    { "company_name": "삼성전자" },
+    { "company_name": "SK하이닉스" },
+    { "company_name": "NAVER" },
+    { "company_name": "카카오" },
+    { "company_name": "현대자동차" }
+  ]
+}
